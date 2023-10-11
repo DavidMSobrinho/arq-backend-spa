@@ -1,0 +1,19 @@
+{
+  "name": "player-de-musica-spa",
+  "version": "1.0.0",
+  "description": "Player de musica para MVC com SPA para a materia de arquitetura de backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMSobrinho/arq-backend-spa.git"
+  },
+  "author": "David Sobrinho, Bruno Ramos, Lucas Santana e Gabriel Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMSobrinho/arq-backend-spa/issues"
+  },
+  "homepage": "https://github.com/DavidMSobrinho/arq-backend-spa#readme"
+}
